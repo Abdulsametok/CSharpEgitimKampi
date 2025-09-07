@@ -1,0 +1,8 @@
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\bin\Debug\04_loops.exe.config
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\bin\Debug\04_loops.exe
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\bin\Debug\04_loops.pdb
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\obj\Debug\04_loops.exe
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\obj\Debug\04_loops.pdb
+C:\Users\mrasa\source\repos\CSharpEgitimKampi\04_loops\obj\Debug\04_loops.exe.config

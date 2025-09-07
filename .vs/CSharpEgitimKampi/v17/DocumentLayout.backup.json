@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354985EB-FFB9-4AA7-8053-4A9126814609}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\mrasa\\source\\repos\\csharpegitimkampi\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354985EB-FFB9-4AA7-8053-4A9126814609}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A08FC56F-3B0C-4961-A325-9FB6FF1F7B56}|09_DatabaseProject\\09_DatabaseProject.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A08FC56F-3B0C-4961-A325-9FB6FF1F7B56}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE1985F-ED7B-41ED-9F58-2917E1E42C70}|06_Arrays\\06_Arrays.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE1985F-ED7B-41ED-9F58-2917E1E42C70}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D1FE76-504B-4F58-8D3F-D02F51F1DDCD}|08_Methods\\08_Methods.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D1FE76-504B-4F58-8D3F-D02F51F1DDCD}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5264246-DDA8-490E-B1F9-886C88CF888B}|07_ForeachLoop\\07_ForeachLoop.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5264246-DDA8-490E-B1F9-886C88CF888B}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51658884-2A1A-45B2-A5B6-7CEAE7F660E0}|04_loops\\04_loops.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51658884-2A1A-45B2-A5B6-7CEAE7F660E0}|04_loops\\04_loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7893EB1-C96E-4FF7-944D-FE518B9A8022}|03_MakingDecision\\03_MakingDecision.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7893EB1-C96E-4FF7-944D-FE518B9A8022}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA862D4-520E-4BDD-8B29-B08B006107B1}|02_Veriables\\02_Veriables.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA862D4-520E-4BDD-8B29-B08B006107B1}|02_Veriables\\02_Veriables.csproj|solutionrelative:02_veriables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F243D6-B464-47D4-B9BB-ACB2300EFA3E}|01_MainSubject\\01_MainSubject.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\01_mainsubject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F243D6-B464-47D4-B9BB-ACB2300EFA3E}|01_MainSubject\\01_MainSubject.csproj|solutionrelative:01_mainsubject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEE112A-591C-436D-A478-59C90A177DA3}|05_LoopsWithStars\\05_LoopsWithStars.csproj|C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEE112A-591C-436D-A478-59C90A177DA3}|05_LoopsWithStars\\05_LoopsWithStars.csproj|solutionrelative:05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswIAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T10:26:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:02:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwF4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:44:49.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA7wA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:31:44.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:59:52.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "05_LoopsWithStars\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
+              "RelativeToolTip": "05_LoopsWithStars\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:09:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\04_loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_loops\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\04_loops\\Program.cs",
+              "RelativeToolTip": "04_loops\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:04:00.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T09:27:19.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "RelativeDocumentMoniker": "02_Veriables\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\02_Veriables\\Program.cs",
+              "RelativeToolTip": "02_Veriables\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:47:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\01_MainSubject\\Program.cs",
+              "RelativeDocumentMoniker": "01_MainSubject\\Program.cs",
+              "ToolTip": "C:\\Users\\mrasa\\source\\repos\\CSharpEgitimKampi\\01_MainSubject\\Program.cs",
+              "RelativeToolTip": "01_MainSubject\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwEMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:43:20.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
